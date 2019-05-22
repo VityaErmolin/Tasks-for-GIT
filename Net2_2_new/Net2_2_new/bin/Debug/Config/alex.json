@@ -1,0 +1,16 @@
+[
+  {
+    "Title": "main",
+    "Top": 10,
+    "Left": 20,
+    "Width": 400,
+    "Height": 200
+  },
+  {
+    "Title": "help",
+    "Top": 20,
+    "Left": 30,
+    "Width": 400,
+    "Height": 100
+  }
+]

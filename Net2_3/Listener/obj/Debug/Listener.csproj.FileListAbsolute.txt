@@ -1,0 +1,5 @@
+F:\For GIT\NET\Net2_3\Listener\bin\Debug\Listener.dll
+F:\For GIT\NET\Net2_3\Listener\bin\Debug\Listener.pdb
+F:\For GIT\NET\Net2_3\Listener\obj\Debug\Listener.csproj.CoreCompileInputs.cache
+F:\For GIT\NET\Net2_3\Listener\obj\Debug\Listener.dll
+F:\For GIT\NET\Net2_3\Listener\obj\Debug\Listener.pdb
